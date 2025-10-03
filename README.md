@@ -1,7 +1,7 @@
 # pexeso-memory-game
 Pexeso memory game about tools. Match them with their usage or accessory. Built in PHP
 
-Language support (without 100% accurate translates):
+Language support (without 100% accurate translations):
 - English
 - Slovak
 - Russian
