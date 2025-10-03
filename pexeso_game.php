@@ -78,7 +78,7 @@ for ($i=0;$i<81;$i++){
         $board[]=[
             'type'=>'center',
             'id'=>'center',
-            'label'=>'<div class="center-inner"><div class="center-flip"><div class="center-front"><img src="fnva_logo.png" alt="FnvA logo" style="max-width:80px;max-height:80px;border-radius:5px;"></div><div class="center-back"><a href="https://github.com/fnva" target="_blank">GitHub</a></div></div></div>',
+            'label'=>'<div class="center-inner"><div class="center-flip"><div class="center-front"><img src="fnva_logo.png" alt="FnvA logo" style="max-width:80px;max-height:80px;border-radius:5px;"></div><div class="center-back"><a href="https://github.com/fnva/pexeso-memory-game" target="_blank">GitHub</a></div></div></div>',
             'disabled'=>true
         ];
     } else {
@@ -833,3 +833,4 @@ revealAllAtStart();
 </script>
 </body>
 </html>
+
