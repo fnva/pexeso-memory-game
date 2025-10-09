@@ -1,3 +1,6 @@
+Little project for school, use or
+dont use, life is meaningless anyway
+
 # pexeso-memory-game
 Pexeso memory game about tools. Match them with their usage or accessory. Built in PHP
 
